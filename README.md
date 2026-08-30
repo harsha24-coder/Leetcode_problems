@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harsha24-coder/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
