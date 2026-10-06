@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/harsha24-coder/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
@@ -62,6 +64,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
