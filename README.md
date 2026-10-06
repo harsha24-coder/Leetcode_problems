@@ -46,10 +46,12 @@
 | [0541-reverse-string-ii](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/harsha24-coder/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
