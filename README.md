@@ -23,6 +23,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harsha24-coder/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
