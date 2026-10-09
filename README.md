@@ -46,6 +46,7 @@
 | [0125-valid-palindrome](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0709-to-lower-case) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/harsha24-coder/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
@@ -97,4 +99,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
