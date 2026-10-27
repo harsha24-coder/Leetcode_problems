@@ -16,6 +16,7 @@
 | [0881-boats-to-save-people](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harsha24-coder/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/harsha24-coder/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/harsha24-coder/Leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/harsha24-coder/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/harsha24-coder/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
