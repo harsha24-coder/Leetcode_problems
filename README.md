@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -60,6 +61,7 @@
 | [0001-two-sum](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/harsha24-coder/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
@@ -123,4 +125,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/harsha24-coder/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
